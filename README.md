@@ -1,3 +1,4 @@
+NO AI WAS USED IN ANY PART<br>
 This is my second game made usuing Godot4! <br>
 It is a 2d platformer game where you have to pass one level (yeah only one) and collect coins in the way and get a score.<br>
 <img width="1000" height="602" alt="image" src="https://github.com/user-attachments/assets/777e448a-17e6-4cee-a179-7da5095ddb8c" />
